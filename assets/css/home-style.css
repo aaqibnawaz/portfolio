@@ -1,0 +1,118 @@
+body{
+			height: 1500px;
+		}
+		 .section1 img{
+		 	border-radius: 20px;
+
+		 }
+		 .page{
+		 	margin-left: 500px;
+		 }
+		.section2{
+			background-image: url(../img/london2.jpg);
+			padding: 20%;
+			text-align: center;
+			color: #fff; 
+			font-family: Arial;
+    		background-attachment: fixed;	
+    	}
+    	.logo{
+    		width:40px;
+    	}
+    	.button {
+    		transition-duration: 0.4s;
+  			  margin-top: 25px;
+			font-family: oblique;
+			font-size: 20px;
+			 border:1px solid white;
+			 border-radius: 10px;
+}
+
+		.button:hover {	
+		  	 background-color:white; /* Green */
+		    color: black;
+		    border: 1px solid lightblue;
+		}
+		.section3{
+			padding: 80px;
+			text-align: center;
+			background-color: lightblue;
+		}
+		.section3 a{
+			border:1px solid black;
+			 border-radius: 10px;
+
+		}
+		
+		 .img1{
+		    border-radius: 150px;
+		    background-color: white;
+
+		}
+		
+		.img1p{
+			padding: 15px;
+			font-family: Arial;
+		}
+		.button1 {
+    		transition-duration: 0.4s;
+  			  margin-top: 25px;
+			font-family: oblique;
+			font-size: 20px;
+			 border:1px solid white;
+			 border-radius: 10px;
+		}
+		.button1:hover {	
+		  	 background-color:lightblue; 
+		    color: black;
+			border:1px solid white;
+		}
+		.section4{
+			padding: 20px;
+		}
+		
+		.section5{
+			text-align: center;
+			background-color: lightblue;
+			padding: 15px;
+
+		}
+		.section5 h1 {
+			padding:12px;
+			font-family: Arial bold;
+			font-variant: small-caps;
+
+		}
+		.section5 p {
+			padding: 15px;
+			font-family: Arial;
+
+		}
+		.imgsec{
+		    padding: 25px;
+		}
+		.button2 {
+    		transition-duration: 0.4s;
+  			margin-top: 25px;
+			font-family: oblique;
+			font-size: 20px;
+			 border:1px solid white;
+			 border-radius: 10px;
+		}
+		.button2:hover {	
+		  	 background-color:lightblue; 
+		    color: black;
+		}
+		.font{
+			padding: 40px;
+			text-align: center;
+			font-variant: small-caps;
+
+		}
+		.font2{
+			margin: 11px;
+			text-align: center;
+			font-variant: small-caps;
+
+		}
+		

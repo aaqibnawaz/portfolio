@@ -1,0 +1,42 @@
+body{
+			height: 1500px;
+		}
+		 .section1 img{
+		 	border-radius: 20px;
+
+		 }
+		 .page{
+		 	margin-left: 500px;
+		 }
+			.logo{
+				width:40px;
+			}
+		 .head{
+			text-align: center;
+			padding: 20px;
+			font-size: 350%;
+			font-family: blod;
+		}
+		
+		.head{
+			font-style: bold ;
+			font-family: Arial;
+			color: lightblue;
+
+		}
+		.h3{
+			color:green;
+		}
+		.h1{
+			font-style:bold;
+			color: lightblue;
+		}
+		.p2{
+			text-align:left;
+			font-family: Arail;
+		}
+		.section8{
+			padding: 20px;
+		}
+		
+		

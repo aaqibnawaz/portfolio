@@ -1,0 +1,99 @@
+body{
+			height: 1500px;
+		}
+		
+		 .section1 img{
+		 	border-radius: 20px;
+
+		 }
+		 .page{
+		 	margin-left: 500px;
+		 }
+		
+		 .section2 {
+		 text-align: center;
+		 margin:10%; 
+		 }
+		 .logo{
+		 	width:60px;
+		 }
+		 .button1 {
+    		transition-duration: 0.4s;
+  			margin-top: 20px;
+			font-family: oblique;
+			font-size: 20px;
+			border:1px solid white;
+			background-color: green;
+			border-radius: 10px;
+}
+
+		.button1:hover {	
+		  	background-color:white; /* Green */
+		    color: black;
+		    border: 1px solid lightblue;
+		}
+		.bg {
+			background-color: ;		
+    		color: white;
+    		float:  center;
+
+    	}
+    	.section3 img{
+    		
+		}
+		h1{
+			text-align: center;
+			color: blue; 
+		}
+		.img{
+			border-radius: 240px;
+			float: left;}
+
+		.section5{
+			padding: 80px;
+			text-align: center;
+			/*background-image: url(../img/nawaz.jpg);
+			background-position: center;*/
+			background-color: lightblue;
+		}
+		.section5 a{
+			border:1px solid black;
+
+		}
+		
+		 .img1{
+			width: 60px;
+   			height: 58px;
+	   		border-radius: 25px;
+  		 	margin-bottom: 22px;
+		}
+		.heading{
+			padding-top: 10px;
+		}
+		.font2{
+			color:white; 
+		}
+		.img1p{
+			margin: 5px;
+			font-family: Arial;
+		}
+		.new{
+			margin-top: 20px;
+		}
+		/*.button1 {
+    		transition-duration: 0.4s;
+  			  margin-top: 25px;
+			font-family: oblique;
+			font-size: 20px;
+			 border:1px solid white;
+			 border-radius: 10px;
+		}
+		.button1:hover {	
+		  	 background-color:lightblue; 
+		    color: white;
+			border:1px solid white;
+		}*/
+    	
+    	
+
+		
